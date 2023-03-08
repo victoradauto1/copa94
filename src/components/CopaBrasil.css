@@ -1,0 +1,67 @@
+.green{
+    background-color:#23F219 ;
+
+}
+
+.green li{
+    color: yellow ;
+}
+
+.yellow{
+ background-color:#EDEC1A ;
+}
+
+.yellow li{
+    color: blue;
+}
+
+h3{
+    display: flex;
+    justify-content: space-between;
+    color: green;
+}
+
+
+.starter{
+    font-size: 16px;
+    font-family: Arial;
+
+}
+body{
+
+background-color:#EDECEA
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+h2{
+    display: flex;
+    justify-content: space-between;
+    color: #23F219;
+} 
+
+
+p{
+    color: blue;
+}
+
+.color1{
+    color: #23F219;
+}
+
+.color2{
+    color: blue;
+}
+
+.color3{
+    color: #EDEC1A;
+}
+
+img{
+    display: flex;
+    justify-content: space-between;
+}
